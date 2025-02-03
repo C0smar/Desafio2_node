@@ -24,7 +24,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 1. **Clona el repositorio** en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu-usuario/mi-repertorio.git
+   git clone https://github.com/C0smar/Desafio2_node.git
 
 2. Navega al directorio del proyecto:
 
