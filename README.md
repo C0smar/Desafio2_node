@@ -35,6 +35,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 4. Instala las dependencias necesarias:
    
     En tu consola escribe:
+   
     npm install
 
 ## Ejecución del Servidor
@@ -42,6 +43,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 1. Para iniciar el servidor, ejecuta el siguiente comando:
 
 en tu consola escribe:
+
   node index.js
   
 El servidor estará disponible en http://localhost:3000.
