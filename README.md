@@ -29,9 +29,10 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 2. Navega al directorio del proyecto:
 
     En tu consola escribe:
+   
     cd mi-repertorio
 
-3. Instala las dependencias necesarias:
+4. Instala las dependencias necesarias:
    
     En tu consola escribe:
     npm install
